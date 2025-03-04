@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Dentaku',
       theme: ThemeData.dark(),
-//      home:
+//      home: ,
     );
   }
 }
